@@ -1,2 +1,2 @@
 # samplescproject
-sample
+sample project
